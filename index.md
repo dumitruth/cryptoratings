@@ -23,12 +23,12 @@ _**Why?**_
 - Codebase is arguably one of the strongest predictive features that is difficult to quantify by investors
 
 # The cRT token
-a. ERC20 token 
-b. Exclusive way of payment on the platform
-c. Airdrop
-d. ICO
-e. Emission curve
-f. Buyback program and burning tokens 
+1. ERC20 token 
+2. Exclusive way of payment on the platform
+3. Airdrop
+4. ICO
+5. Emission curve
+6. Buyback program and burning tokens 
 
 # The ChainRatings Foundation
  - Productizing data instruments for the platform 
